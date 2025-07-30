@@ -1,16 +1,29 @@
-## Hi there 👋
+# Menuka 
 
-<!--
-**Menu-D/Menu-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill set
 
-Here are some ideas to get you started:
+### EXPERIENCED  
+<p>
+  2 months of experience in programming without a consistent language. However, I am planning to continue my dreams of becoming a game developer using C++ over time. I have been consistently programming using C++ for almost 1 whole month now and learning something new every day, along with my passion for game development growing every day.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### PROFICIENT  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+</p>
+
+---
+
+### ENTRY-LEVEL  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+---
