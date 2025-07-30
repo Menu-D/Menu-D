@@ -6,9 +6,11 @@
 <p>
   2 months of experience in programming without a consistent language. However, I am planning to continue my dreams of becoming a game developer using C++ over time. I have been consistently programming using C++ for almost 1 whole month now and learning something new every day, along with my passion for game development growing every day.    
 </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>   
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>   
 
 ---
 
