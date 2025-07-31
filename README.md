@@ -4,7 +4,7 @@
 
 ### EXPERIENCED  
 <p>
-  2 months of experience in programming without a consistent language. However, I am planning to continue my dreams of becoming a game developer using C++ over time. I have been consistently programming using C++ for almost 1 whole month now and learning something new every day, along with my passion for game development growing every day.    
+  Started programming first in college and never really thought I would be fond of it, am currently learing the fundementals of C++ along with SFML currently. 
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
