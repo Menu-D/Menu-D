@@ -8,7 +8,6 @@
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>   
 </p>
 
 
@@ -18,6 +17,8 @@
 <p align="left">
   I am currently developing proficiency in C++, with a sold understanding of the core concepts such as variables, conditionals, functions (return types and void), classes and a solid understanding of the compiler/linkers processes. I am also learning SFML for graphics programming. 
 </p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>   
 
 ---
 
