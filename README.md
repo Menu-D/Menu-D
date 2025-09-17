@@ -4,7 +4,7 @@
 
 ### EXPERIENCED  
 <p>
-  Started programming first in college and never really thought I would be fond of it, am currently learing the fundementals of C++ along with SFML.
+  Started programming first in college and never really thought I would be fond of it, am currently learing the fundementals of C++. 
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
