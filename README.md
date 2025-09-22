@@ -24,6 +24,7 @@
 
 ### ENTRY-LEVEL  
 <p align="left">
+  <img src="https://github.com/user-attachments/assets/3caffc3b-464d-4d09-b225-e84c856bab4c" width = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
